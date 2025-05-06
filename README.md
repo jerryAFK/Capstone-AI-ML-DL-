@@ -85,7 +85,7 @@ The goal is to:
 ```
 
 
-##Modules
+## Modules
 1. Vehicle & Ambulance Detection
 Model: YOLOv2 via Darkflow
 
@@ -120,19 +120,19 @@ Ambulance is spawned and prioritized when ambulance_detected is true.
 
 Supports 4-way or ring-road style intersections.
 
-##⚙️ Installation
+## ⚙️ Installation
 
 git clone https://github.com/yourusername/ai-traffic-management.git
 cd ai-traffic-management
 pip install -r requirements.txt
 
-##Requirements
+## Requirements
 Python 3.8+
 OpenCV
 Tkinter (comes with Python)
 NumPy, PIL, etc.
 
-##How It Works
+## How It Works
 1.Vehicle and ambulance detection is performed frame-by-frame.
 2.The vehicle count is calculated per lane.
 3.A timer logic estimates green light duration.
@@ -149,14 +149,14 @@ NumPy, PIL, etc.
 
 ⏱️ Signal Response Time: Dynamic, avg. 5–15s based on density
 
-##⚠️ Limitations
+## ⚠️ Limitations
 Simulation only; not integrated with real-time camera feeds.
 
 Ambulance detection trained on a medium-sized dataset (~600 images).
 
 Works best under consistent lighting and simple intersections.
 
-🚀 Future Scope
+## 🚀 Future Scope
 Integrate live traffic camera feeds using RTSP.
 
 Scale to multiple intersections using graph-based routing.
@@ -165,5 +165,5 @@ Train on larger datasets with occlusion handling.
 
 Add pedestrian and traffic violation detection.
 
-📝 License
-This project is licensed under the Apache2.0 license.
+## 📝 License
+This project is licensed under the Apache 2.0 license.
