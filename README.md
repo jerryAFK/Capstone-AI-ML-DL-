@@ -122,12 +122,11 @@ Supports 4-way or ring-road style intersections.
 
 ## ⚙️ Installation
 
-git clone https://github.com/yourusername/ai-traffic-management.git
-cd ai-traffic-management
-pip install -r requirements.txt
+git clone https://github.com/jerryAFK/Capstone-AI-ML-DL-.git
 
 ## Requirements
 Python 3.8+
+YOLO lib
 OpenCV
 Tkinter (comes with Python)
 NumPy, PIL, etc.
