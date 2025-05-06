@@ -1,4 +1,4 @@
-# 🚦 AI-Driven Traffic Management System
+# 🚦 AI-Driven Traffic Management System with emergency vehicle prioritization 
 
 An AI-based smart traffic signal management system that dynamically adjusts traffic light timing based on real-time vehicle density and prioritizes ambulances to ensure minimal delay in emergency response. Built using Python, Computer Vision, and a custom simulation framework.
 
