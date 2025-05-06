@@ -51,11 +51,11 @@ The goal is to:
 | Category              | Technology                     |
 |-----------------------|--------------------------------|
 | Programming Language  | Python                         |
-| Object Detection      | YOLOv2 via Darkflow            |
+| Object Detection      | YOLOv8                         |
 | GUI & Simulation      | Tkinter                        |
 | Computer Vision       | OpenCV                         |
 | Dataset Format        | Custom-labeled YOLO format     |
-| Model Training        | Custom dataset (~600 images)   |
+| Model Training        | Custom dataset (3k+ images)    |
 | Development Tools     | VS Code, Jupyter Notebook      |
 | Version Control       | Git, GitHub                    |
 
