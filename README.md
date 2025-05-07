@@ -52,7 +52,7 @@ The goal is to:
 |-----------------------|--------------------------------|
 | Programming Language  | Python                         |
 | Object Detection      | YOLOv8                         |
-| GUI & Simulation      | Tkinter                        |
+| GUI & Simulation      | Pygame                         |
 | Computer Vision       | OpenCV                         |
 | Dataset Format        | Custom-labeled YOLO format     |
 | Model Training        | Custom dataset (3k+ images)    |
